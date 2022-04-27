@@ -5,7 +5,7 @@
 <!-- editor[https://dillinger.io/]   -->
 ### :love_letter: About me
 - 📫Blog: https://developshin.github.io 수정중
-- 💬Email: shin.github@gmail.com
+- 💬Email: kor.sshin@gmail.com
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=DevelopShin&show_icons=true&theme=radical&count_private=true)
