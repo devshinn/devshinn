@@ -4,7 +4,7 @@
 
 <!-- editor[https://dillinger.io/]   -->
 ### :love_letter: About me
-- 📫Blog: https://developshin.github.io
+- 📫Blog: https://developshin.github.io 수정중
 - 💬Email: shin.github@gmail.com
 
 
