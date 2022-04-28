@@ -12,7 +12,7 @@
 - 💬Email: kor.sshin@gmail.com
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=DevelopShin&show_icons=true&theme=radical&count_private=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=DevelopShin&show_icons=true&theme=radical&count_private=true)](#)
 
 [EDITOR](https://dillinger.io/) <br/>
 [README](https://github.com/DevelopShin/DevelopShin/edit/main/README.md)
