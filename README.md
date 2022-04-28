@@ -18,4 +18,3 @@
 [EDITOR](https://dillinger.io/) <br/>
 [README](https://github.com/DevelopShin/DevelopShin/edit/main/README.md)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/NGKjyhOufKq9t98mRJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BareTreeMedia-winter-yeti-btm-NGKjyhOufKq9t98mRJ">via GIPHY</a></p>
