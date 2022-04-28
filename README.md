@@ -17,3 +17,5 @@
 
 [EDITOR](https://dillinger.io/) <br/>
 [README](https://github.com/DevelopShin/DevelopShin/edit/main/README.md)
+
+<img src="https://giphy.com/embed/NGKjyhOufKq9t98mRJ" width="480" height="480">
