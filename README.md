@@ -15,7 +15,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=DevelopShin&show_icons=true&theme=radical&count_private=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developshin&layout=compact&theme=dark)](#)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developshin&layout=compact&theme=dark)](#) -->
 
 <!-- [EDITOR](https://dillinger.io/) <br/> -->
 [README](https://github.com/DevelopShin/DevelopShin/edit/main/README.md)
