@@ -14,11 +14,8 @@
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=DevelopShin&show_icons=true&theme=radical&count_private=true)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sik9252&layout=compact&theme=dark)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-
-[EDITOR](https://dillinger.io/) <br/>
+<!-- [EDITOR](https://dillinger.io/) <br/> -->
 [README](https://github.com/DevelopShin/DevelopShin/edit/main/README.md)
 
