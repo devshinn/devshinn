@@ -5,7 +5,7 @@
 
 [<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">](#)[<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">](#)[<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">](#)[<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">](#)
 
-[<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">](#)[<img src="https://img.shields.io/badge/tesorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">](#)[<img src="https://img.shields.io/badge/deep learning-00B336?style=for-the-badge&logoColor=white">](#)[<img src="https://img.shields.io/badge/GAN-20C997?style=for-the-badge&logoColor=white">](#)
+[<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">](#)[<img src="https://img.shields.io/badge/tesorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">](#)[<img src="https://img.shields.io/badge/LSTM-00B336?style=for-the-badge&logoColor=white">](#)[<img src="https://img.shields.io/badge/GAN-20C997?style=for-the-badge&logoColor=white">](#)
 
 
 ### :love_letter: About me
