@@ -9,7 +9,7 @@
 
 
 ### :love_letter: About me
-- 📫Blog: https://developshin.github.io 개발중...
+- 📫Blog: https://developshin.github.io ㅠㅠ
 - 💬Email: kor.sshin@gmail.com
 
 
