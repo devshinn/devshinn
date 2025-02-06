@@ -11,6 +11,7 @@
 
 
 ### :love_letter: About me
+웹 개발, 데이터 엔지니어링, 자동화 프로그램 분야에서 프리랜서로 일하고 있습니다. 
 - 💬Email: kor.sshin@gmail.com
 
 
